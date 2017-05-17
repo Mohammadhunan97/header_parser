@@ -1,6 +1,5 @@
 # README
 
-Things you may want to cover:
 
 * Ruby version
 ruby 2.4.0p0
