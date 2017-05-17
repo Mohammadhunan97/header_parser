@@ -13,17 +13,12 @@ The database used is PostgresQL
 Database Structure: 
 One model is the Url and another is the Header (which contains a reference to the id # of the Url), Sample of the Database setup:
 
-         URL 
-   ID       URL(string)
-    1       http://www.google.com 
-    2       http://www.facebook.com
-    
-    
-        Header
-   ID       Tag(string)     Content(text)         url_id(reference)      
-    1         "H3"            "Welcome to facebook"      2
-    2         "H1"            "Login to facebook"        2
-    3         "H2"            "Search with google"       1
+https://image.ibb.co/dwKEY5/Screen_Shot_2017_05_17_at_3_32_24_PM.png
+
+
+
+
+
 * How to run the test suite
 
 * Services (job queues, cache servers, search engines, etc.)
